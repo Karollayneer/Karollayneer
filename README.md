@@ -6,7 +6,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://Karollayneerod@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5521968828746)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karollayneer&show_icons=true&theme=transparent)
+<div>
+<a href="https://github.com/karollayneer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karollayneer&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karollayneer&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display-block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
