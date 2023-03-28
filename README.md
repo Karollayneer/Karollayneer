@@ -1,9 +1,10 @@
 
 # °Karolayne Rodrigues  🖖
-### °PROGRAMADORES CARIOCA (SENAC/RESILIA)
-Front-end Back-end
 ### °FACULDADE (ANALISE E DESENVOLVIMENTO DE SISTEMA)
 3°PERIODO
+
+### °PROGRAMADORES CARIOCA (SENAC/RESILIA)
+Front-end Back-end
 
 <img align="center" alt="avatar" height="80" width="80" src="avatar.png">
 
