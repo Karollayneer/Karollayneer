@@ -6,7 +6,7 @@
 ### °PROGRAMADORES CARIOCA (SENAC/RESILIA)
 Front-end Back-end
 
-<img align="center" alt="avatar" height="80" width="80" src="avatar.png">
+<img align = "center" alt="avatar" height="80" width="80" src="avatar.png">
 
 <div style="display-block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
