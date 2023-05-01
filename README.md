@@ -8,14 +8,14 @@ Front-end Back-end
 
 <img align = "center" alt="avatar" height="80" width="80" src="avatar.png">
 
-<div style="display-block"><br/>
+
+<div style="">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br/>
 
-</div>
-<div>
+
 <a href="https://github.com/Karollayneer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karollayneer&layout=compact&langs_count=7&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karollayneer&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
