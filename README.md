@@ -4,7 +4,7 @@
 3°PERIODO
 
 ### °PROGRAMADORES CARIOCA (SENAC/RESILIA)
-Front-end Back-end
+ Full Stack
 
 <img align = "center" alt="avatar" height="80" width="80" src="avatar.png">
 
