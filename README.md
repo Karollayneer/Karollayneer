@@ -1,5 +1,5 @@
 
-# °Karolayne Rodrigues  🖖
+# °Karolayne Rodrigues 🖖
 ### °FACULDADE (ANALISE E DESENVOLVIMENTO DE SISTEMA)
 4°PERIODO
 
